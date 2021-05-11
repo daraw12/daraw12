@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daraw12
-- 👀 I’m interested in Data Analytics/Engineering/Science
+- 👀 I’m interested in Data Engineering/Analytics
 - 🌱 I’m currently learning Python/SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
